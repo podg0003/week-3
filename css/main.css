@@ -1,0 +1,41 @@
+/*comment*/
+body{
+    color:mediumseagreen;
+}
+
+h1, h2 { 
+    color:hotpink;
+}
+
+footer p {
+    color:gold;
+}
+
+.error {
+    font-weight: bold;
+    color:red;
+}
+
+.underline {
+border-bottom: 1px solid black;
+}
+
+#success {
+    font-style: italic;
+}
+
+main>h2 {
+    font-size: 2rem;
+}
+
+a:link, a:visited {
+    color:black;
+}
+
+a:hover, a:active {
+    color:palevioletred;
+}
+
+main p:last-child {
+    font-size: 0.5rem;
+}
